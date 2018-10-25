@@ -24,6 +24,10 @@ body {
 ol, ul {
   list-style: disc; }
 
+li {
+  padding-bottom: 1em;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0; }
@@ -56,6 +60,11 @@ a {
 
 h1 {
   font-size: 4em;
+  color: orange;
+}
+
+h2 {
+  font-size: 2em;
   color: orange;
 }
 
